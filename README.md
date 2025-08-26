@@ -24,11 +24,11 @@ Source: [Kaggle Olympics Dataset](https://www.kaggle.com/datasets/the-guardian/o
 ---
 
 ## Analysis Highlights
-✔️ Country-wise medal tally (top 10 countries)  
-✔️ Medal trends across Olympic years  
-✔️ Heatmap of medals per country per year  
-✔️ Breakdown of **Gold, Silver, Bronze** medals  
-✔️ Comparison of **Summer vs Winter Olympics** performance  
+ Country-wise medal tally (top 10 countries)  
+ Medal trends across Olympic years  
+ Heatmap of medals per country per year  
+ Breakdown of **Gold, Silver, Bronze** medals  
+ Comparison of **Summer vs Winter Olympics** performance  
 
 ---
 
@@ -52,4 +52,5 @@ This project shows how **data analytics can reveal long-term trends** in interna
 
 ---
 
-👩‍💻 Created by [Your Name](https://github.com/shree0156)
+Shreeja S M
+(https://github.com/shree0156)
