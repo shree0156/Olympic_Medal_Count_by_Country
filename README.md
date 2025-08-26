@@ -15,7 +15,7 @@ Source: [Kaggle Olympics Dataset](https://www.kaggle.com/datasets/the-guardian/o
 
 ---
 
-## ⚙Tools & Libraries
+## Tools & Libraries
 - **Python** (Google Colab / Jupyter Notebook)  
 - **pandas** → Data manipulation  
 - **numpy** → Numerical operations  
