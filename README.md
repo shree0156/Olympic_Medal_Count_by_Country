@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes the performance of countries in the **Olympic Games** using historical data from [Kaggle Olympics Dataset](https://www.kaggle.com/datasets/the-guardian/olympic-games).  
 
-The goal is to compare **country-wise medal counts across years**, and explore patterns in **Summer vs Winter Olympics**, as well as **sport-wise dominance**.  
+The goal is to compare **country-wise medal counts across years**, and explore patterns in **Summer and Winter Olympics**.  
 
 ---
 
@@ -27,8 +27,7 @@ Source: [Kaggle Olympics Dataset](https://www.kaggle.com/datasets/the-guardian/o
  Country-wise medal tally (top 10 countries)  
  Medal trends across Olympic years  
  Heatmap of medals per country per year  
- Breakdown of **Gold, Silver, Bronze** medals  
- Comparison of **Summer vs Winter Olympics** performance  
+ Breakdown of **Gold, Silver, Bronze** medals    
 
 ---
 
